@@ -1,0 +1,12 @@
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.AssemblyInfo.cs
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\bin\Debug\net6.0\Calculator.Logic.deps.json
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\bin\Debug\net6.0\Calculator.Logic.dll
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\bin\Debug\net6.0\Calculator.Logic.pdb
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.dll
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\obj\Debug\net6.0\refint\Calculator.Logic.dll
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\obj\Debug\net6.0\Calculator.Logic.pdb
+C:\Users\danii\Desktop\УСР\Calculator\MyCalculator-master\Calculator.Logic\obj\Debug\net6.0\ref\Calculator.Logic.dll
